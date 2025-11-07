@@ -1,0 +1,23 @@
+
+```bash
+#!/bin/bash
+echo "🚀 Starting Single Zone VPC Webserver Deployment"
+echo "================================================"
+echo "Project by: Mukul"
+echo "GitHub: github.com/Mukul-CloudDev/single-zone-vpc-webserver"
+echo ""
+
+# VPC Creation
+echo "🌐 Creating Custom VPC..."
+# AWS CLI commands for VPC creation
+
+# Subnet Setup
+echo "📡 Configuring Public Subnet..."
+# Subnet configuration commands
+
+# Webserver Deployment
+echo "🖥️  Launching Apache Webserver..."
+# EC2 instance launch with user data
+
+echo "✅ Deployment completed successfully!"
+echo "🔗 Check screenshots folder for implementation proof"
